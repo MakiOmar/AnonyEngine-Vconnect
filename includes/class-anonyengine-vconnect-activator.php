@@ -30,7 +30,5 @@ class Anonyengine_Vconnect_Activator {
 	 * @since    1.0.0
 	 */
 	public static function activate() {
-
 	}
-
 }

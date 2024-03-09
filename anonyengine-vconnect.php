@@ -77,6 +77,5 @@ function run_anonyengine_vconnect() {
 
 	$plugin = new Anonyengine_Vconnect();
 	$plugin->run();
-
 }
 run_anonyengine_vconnect();
